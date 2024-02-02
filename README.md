@@ -1,6 +1,6 @@
 # NLP_DisasterClassification
 ## Problem Description
-Monitoring social media can quickly identify ongoing disasters, but when someone writes "... the sky was ablaze...", they may be referring to either a sunset or a devastation wildfire.
+Monitoring social media can quickly identify ongoing disasters, but when someone writes "... the sky was ablaze...", they may be referring to either a devastation wildfirer or a sunset.
 [This NLP practice problem](https://www.kaggle.com/competitions/nlp-getting-started/overview) asks you to train a model capable of distinguishing genuine disaster reports from inert hyperbole and metaphor.
 ## Materials
 This repository contains a .csv file of predictions for the testing dataset and the Python program I used to generate them.
